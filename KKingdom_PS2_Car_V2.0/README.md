@@ -1,7 +1,8 @@
-# KKingdom PS2 Car V1.0
+# KKingdom PS2 Car V2.0
 
 ## Librarys
 * [PS2X_Lib](../Librarys/PS2X_lib/)
+* [MatrixR4](https://github.com/CIRCUSPi/MatrixR4Arduino) (V1.0.0)
 * [Adafruit_SSD1306](https://github.com/adafruit/Adafruit_SSD1306) (V2.5.7)
 
 ## 啟動條件
